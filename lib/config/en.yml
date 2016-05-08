@@ -356,4 +356,5 @@ simple:
   "wank": ["sexual"]
   "wetback": ["discriminatory"]
 emoji:
-  "1f595": ["insult"]
+  "1f595": ["insult"] # middle finger
+  "1F4A9": ["inappropriate"] # poo
